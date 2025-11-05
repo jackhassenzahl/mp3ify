@@ -30,7 +30,7 @@ A simple python program to download Music from various platfroms using yt-dlp ( 
 - Clone this repository ( or just download it as a zip file and uncompress it ):
 
 ```bash
-git clone https://github.com/MrElyazid/mp3ify.git
+git clone https://github.com/jackhassenzahl/mp3ify.git
 ```
 
 - then :
@@ -129,7 +129,7 @@ pkg install git python ffmpeg
 - Clone this repo :
 
 ```bash
-git clone https://github.com/MrElyazid/mp3ify
+git clone https://github.com/jackhassenzahl/mp3ify
 ```
 
 - cd into the directory :
